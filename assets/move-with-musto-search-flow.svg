@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" role="img" aria-labelledby="title description">
+  <title id="title">Sanitized Move With Musto property-search interface</title>
+  <desc id="description">A synthetic illustration of filters, results, a map, saved homes, comparison, and contact actions. It contains no MLS listing data.</desc>
+  <rect width="1200" height="720" fill="#f6f0e8"/>
+  <rect x="34" y="30" width="1132" height="660" rx="24" fill="#fffdf8" stroke="#d7c9b8" stroke-width="2"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="70" y="82" fill="#2c261f" font-size="24" font-weight="700" letter-spacing="2">MOVE WITH MUSTO</text>
+    <text x="1130" y="78" fill="#786957" font-size="13" font-weight="700" text-anchor="end" letter-spacing="1.2">SYNTHETIC INTERFACE · NO MLS DATA</text>
+    <line x1="70" x2="1130" y1="108" y2="108" stroke="#d7c9b8"/>
+
+    <text x="70" y="154" fill="#9a7045" font-size="13" font-weight="700" letter-spacing="2">HOME SEARCH</text>
+    <text x="70" y="196" fill="#2c261f" font-family="Georgia, serif" font-size="42" font-weight="700">Find the right fit</text>
+    <text x="70" y="226" fill="#756b61" font-size="17">Refine a search, compare options, save homes, and contact the agent.</text>
+
+    <rect x="70" y="258" width="1060" height="102" rx="16" fill="#f8f4ee" stroke="#d7c9b8"/>
+    <g fill="#756b61" font-size="12" font-weight="700" letter-spacing="1">
+      <text x="94" y="286">LOCATION</text>
+      <text x="354" y="286">HOME TYPE</text>
+      <text x="554" y="286">PRICE</text>
+      <text x="734" y="286">BEDS</text>
+    </g>
+    <g fill="#fffdf8" stroke="#cdbda9">
+      <rect x="94" y="298" width="236" height="42" rx="8"/>
+      <rect x="354" y="298" width="176" height="42" rx="8"/>
+      <rect x="554" y="298" width="156" height="42" rx="8"/>
+      <rect x="734" y="298" width="124" height="42" rx="8"/>
+    </g>
+    <g fill="#756b61" font-size="14">
+      <text x="110" y="324">Town, ZIP, or address</text>
+      <text x="370" y="324">Any type</text>
+      <text x="570" y="324">Any price</text>
+      <text x="750" y="324">Any beds</text>
+    </g>
+    <rect x="882" y="298" width="222" height="42" rx="8" fill="#356c66"/>
+    <text x="993" y="325" fill="#ffffff" font-size="14" font-weight="700" text-anchor="middle" letter-spacing="1">SEARCH HOMES</text>
+
+    <rect x="70" y="388" width="674" height="252" rx="16" fill="#ffffff" stroke="#d7c9b8"/>
+    <text x="94" y="422" fill="#756b61" font-size="12" font-weight="700" letter-spacing="1.4">REVIEWED RESULTS</text>
+    <g>
+      <rect x="94" y="444" width="626" height="78" rx="12" fill="#f8f4ee"/>
+      <rect x="110" y="458" width="88" height="50" rx="8" fill="#d9e3dc"/>
+      <text x="220" y="476" fill="#2c261f" font-size="17" font-weight="700">Sample home A</text>
+      <text x="220" y="499" fill="#756b61" font-size="13">Fictional listing · reviewed snapshot</text>
+      <rect x="566" y="462" width="128" height="38" rx="19" fill="#356c66"/>
+      <text x="630" y="486" fill="#ffffff" font-size="12" font-weight="700" text-anchor="middle">SAVE + COMPARE</text>
+    </g>
+    <g>
+      <rect x="94" y="538" width="626" height="78" rx="12" fill="#f8f4ee"/>
+      <rect x="110" y="552" width="88" height="50" rx="8" fill="#e5d8c7"/>
+      <text x="220" y="570" fill="#2c261f" font-size="17" font-weight="700">Sample home B</text>
+      <text x="220" y="593" fill="#756b61" font-size="13">Fictional listing · reviewed snapshot</text>
+      <rect x="566" y="556" width="128" height="38" rx="19" fill="#fffdf8" stroke="#9a7045"/>
+      <text x="630" y="580" fill="#795633" font-size="12" font-weight="700" text-anchor="middle">VIEW DETAILS</text>
+    </g>
+
+    <rect x="770" y="388" width="360" height="252" rx="16" fill="#e7eee9" stroke="#b9c8bf"/>
+    <text x="794" y="422" fill="#356c66" font-size="12" font-weight="700" letter-spacing="1.4">MAP + CONTACT</text>
+    <g fill="none" stroke="#a9b9b0" stroke-width="2">
+      <path d="M800 470 C850 430 905 450 940 424 S1030 430 1096 470"/>
+      <path d="M804 554 C870 520 922 570 976 536 S1054 520 1096 556"/>
+      <path d="M854 438 L842 586 M1008 430 L1022 590"/>
+    </g>
+    <circle cx="928" cy="492" r="12" fill="#9a7045"/>
+    <circle cx="1024" cy="538" r="10" fill="#356c66"/>
+    <rect x="794" y="576" width="312" height="42" rx="8" fill="#2c261f"/>
+    <text x="950" y="602" fill="#ffffff" font-size="13" font-weight="700" text-anchor="middle" letter-spacing="1">CONTACT MAI LY</text>
+  </g>
+</svg>

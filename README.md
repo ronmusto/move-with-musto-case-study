@@ -4,6 +4,10 @@ Case study of a production real-estate experience built for [Move With Musto](ht
 
 > The application source, raw MLS exports, credentials, and customer information remain private. This repository documents the engineering decisions and publicly reviewable product behavior.
 
+| Result | My scope | Verification |
+| --- | --- | --- |
+| A production real-estate experience connecting responsive property discovery, reviewed listing snapshots, saved-home workflows, and direct contact paths | Full-stack delivery across product framing, responsive interfaces, data-publication controls, AWS deployment, and release checks | Targeted browser checks, snapshot validation, build safeguards, production routes, and rendered hosting behavior |
+
 ## Context
 
 Move With Musto needed more than a marketing page. The product combines a distinctive client brand with a property-search workspace, saved and compared homes, contact workflows, reviewed listing data, and the operational safeguards required for a production real-estate site.
@@ -20,6 +24,12 @@ I owned the full-stack delivery across product framing, responsive interface wor
 - Listing freshness and schema validation before publication
 - Domain, legal, brand, and production-route checks
 - AWS-hosted deployment and live verification
+
+## Sanitized interface illustration
+
+![Sanitized Move With Musto property-search interface](assets/move-with-musto-search-flow.svg)
+
+*Synthetic illustration of the implemented search, map, save, compare, and contact workflow. It contains no MLS listing data, listing photography, addresses, prices, or brokerage marks.*
 
 ## Publication path
 
