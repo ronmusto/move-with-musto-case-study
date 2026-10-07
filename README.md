@@ -1,18 +1,20 @@
 # Move With Musto
 
-Case study of a production real-estate experience built for [Move With Musto](https://movewithmusto.com/).
+Case study of an independently designed, built, and maintained real-estate application for Move With Musto.
 
-> The application source, raw MLS exports, credentials, and customer information remain private. This repository documents the engineering decisions and publicly reviewable product behavior.
+[Portfolio case study](https://renaldomusto.com/work/move-with-musto/) · [Review the source edition](https://github.com/ronmusto/move-with-musto-source)
+
+> The [source edition](https://github.com/ronmusto/move-with-musto-source) is available for local evaluation under a restrictive license. It includes synthetic replacement assets and excludes production Git history, live MLS records, restricted imagery, credentials, and private operating material. The operational website is temporarily showing a brokerage-transition page; the case study and source provide the review path during that transition.
 
 | Result | My scope | Verification |
 | --- | --- | --- |
-| A production real-estate experience connecting responsive property discovery, reviewed listing snapshots, saved-home workflows, and direct contact paths | Full-stack delivery across product framing, responsive interfaces, data-publication controls, AWS deployment, and release checks | Targeted browser checks, snapshot validation, build safeguards, production routes, and rendered hosting behavior |
+| An independently built real-estate application connecting responsive property discovery, reviewed listing snapshots, saved-home workflows, and direct contact paths | Full-stack delivery across product framing, responsive interfaces, data-publication controls, AWS deployment, and release checks | Targeted browser checks, snapshot validation, build safeguards, production routes, and rendered hosting behavior |
 
 ## Context
 
-Move With Musto needed more than a marketing page. The product combines a distinctive client brand with a property-search workspace, saved and compared homes, contact workflows, reviewed listing data, and the operational safeguards required for a production real-estate site.
+Move With Musto needed more than a marketing page. The product combines a real-estate agent's brand with a property-search workspace, saved and compared homes, contact workflows, reviewed listing data, and the operational safeguards required for a production real-estate site.
 
-I owned the full-stack delivery across product framing, responsive interface work, data-publication controls, AWS deployment, and release verification.
+I independently designed, built, deployed, and maintained the application, including its responsive interface, data-publication controls, AWS delivery, and release verification.
 
 ## Product scope
 
@@ -72,9 +74,10 @@ Verification covers responsive search behavior, URL state, maps, saved homes, re
 
 ## Public evidence
 
-- [Live Move With Musto site](https://movewithmusto.com/)
 - [Portfolio case study](https://renaldomusto.com/work/move-with-musto/)
+- [Review the source edition](https://github.com/ronmusto/move-with-musto-source)
 - [Engineering proof and verification](https://renaldomusto.com/proof/)
+- [Operational website — brokerage transition in progress](https://movewithmusto.com/)
 
 ## Technology
 
